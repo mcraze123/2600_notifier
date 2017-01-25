@@ -13,5 +13,4 @@ if line != d['entries'][0]['link']:
 fh.seek(0)
 fh.truncate()
 fh.write(d['entries'][0]['link'])
-fh.truncate()
 fh.close()
