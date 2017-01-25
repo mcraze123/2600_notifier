@@ -11,7 +11,7 @@ if [ "$#" -ne 2 ] ; then
 	exit
 fi
 
-EMAIL="user@example.com"
+EMAIL="mcraze123@gmail.com"
 SUBJECT=$1
 CLSCRIPT=$2
 PY=`which python`
